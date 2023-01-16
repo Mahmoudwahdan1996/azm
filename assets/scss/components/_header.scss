@@ -1,0 +1,16 @@
+header.v-app-bar--is-scrolled.white.v-sheet.theme--light {
+  //   @include md-and-up {
+  //     background-color: #fff !important;
+  //   }
+  // }
+}
+.header {
+  .v-btn--exact-active {
+    border-bottom: 3px solid #d6b05a !important;
+    border-radius: 0;
+
+    &::before {
+      background-color: #fff !important;
+    }
+  }
+}

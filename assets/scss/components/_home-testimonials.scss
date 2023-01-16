@@ -1,0 +1,66 @@
+.testimonials {
+//   background-color: #fef9f6 !important;
+//   margin-top: 7rem;
+//   position: relative;
+
+//   // Wave shape
+//   &::before {
+//     content: "";
+//     position: absolute;
+//     left: 0;
+//     top: -50px;
+//     height: 280px;
+//     width: 100vw;
+//     background-image: url(../images/home/wave.svg);
+//     background-size: cover;
+//     background-repeat: no-repeat;
+//   }
+
+//   &__heading-wrapper {
+//     .col-12 {
+//       z-index: 1;
+//     }
+//   }
+
+//   .content-border {
+//     height: 50px;
+//   }
+
+//   // next, prev arrows when disabled
+//   .v-slide-group__prev--disabled .v-icon,
+//   .v-slide-group__next--disabled .v-icon {
+//     opacity: 0.4;
+//   }
+
+//   .v-card--link:focus:before {
+//     opacity: 0;
+//   }
+// }
+
+// .client-box {
+//   cursor: default;
+
+//   &__quote-box {
+//     position: relative;
+//   }
+
+//   &__quote-box,
+//   &__arrow-down {
+//     transition: background-color 350ms ease-in-out;
+//   }
+
+//   svg path {
+//     transition: fill 350ms ease-in-out;
+//   }
+
+//   &__arrow-down {
+//     position: absolute;
+//     width: 50px;
+//     height: 25px;
+//     bottom: -24px;
+//     left: 50%;
+//     transform: translateX(-50%);
+//     clip-path: polygon(0 0, 100% 0, 50% 100%);
+//     // filter: brightness(1.1);
+//   }
+}

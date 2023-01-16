@@ -1,0 +1,70 @@
+.about {
+    // &::before {
+    //     @extend .bg-globe
+    // }
+    // &__description {
+    //     &__right {
+    //         h2 {
+    //             margin: 0 -17px;
+    //         }
+
+    //         position: relative;
+
+    //         &__border {
+    //             position: absolute;
+    //             right: -3px;
+
+    //             @include langLtr {
+    //                 left: -3px;
+    //                 right: unset;
+    //             }
+
+    //             width: 4px;
+    //             height: 107px;
+    //             top: 71px;
+    //         }
+    //     }
+
+    //     &__left{
+    //        button{
+    //         box-shadow: 0 10px 19px 2px var(--shadow);
+    //        }
+    //     }
+    // }
+
+    // &__content {
+    //     padding-left: 24px;
+
+    //     @include langLtr {
+    //         margin-right: 24px;
+    //     }
+    // }
+
+    // .border-2 {
+    //     height: 30px;
+    // }
+
+    // &__wrap {
+    //     background-image: linear-gradient(to right, #fffdfd 12%, #fffbf9 100%);
+    // }
+
+    // &__wrap--bg {
+    //     background-image: url(../images/about/about-bg.png);
+    //     min-height: 300px;
+    //     background-size: 100% 100%;
+    //     // animation: animate_intro 90s infinite alternate both ease;
+    //     .secondary {
+    //         position: absolute;
+    //         right: 27px;
+    //         top: 84px;
+    //     }
+
+    //     &__container {
+    //         position: relative;
+    //         background-color: rgba($color: #fff, $alpha: .8);
+    //         box-shadow: 0 0 10px rgb(150, 148, 148);
+    //     }
+
+    // }
+}
+

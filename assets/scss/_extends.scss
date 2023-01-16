@@ -1,0 +1,18 @@
+.bg-globe{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 300px;
+    width: 644px;
+    // background-image: url("./assets/images/home/hero-globe.svg");
+    // background-size: contain;
+    // background-position: top;
+    // background-repeat: no-repeat;
+
+    @include langLtr {
+        right: 0;
+        left: unset;
+    }
+}
+

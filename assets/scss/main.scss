@@ -1,0 +1,12 @@
+@import "./variables";
+@import "./mixins";
+@import "./extends";
+@import "./public";
+@import "./animations";
+@import "./components/_intro-info";
+
+@import "./components/home-hero", "./components/home-free-trial",
+  "./components/home-subscribe", "./components/home-partners",
+  "./components/home-testimonials", "./components/about", "./components/terms",
+  "./components/contacts", "./components/contact-us", "./components/footer",
+  "./components/header", "./components/pricing";

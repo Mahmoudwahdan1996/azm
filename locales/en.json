@@ -1,0 +1,112 @@
+{
+  "validation": {
+    "required": "%{attribute} field is required",
+    "is_required": "Is Required",
+    "maxLength": "%{attribute} field must be at most %{max} characters long",
+    "minLength": "%{attribute} field must be %{min} characters at least",
+    "minImageCount": "%{attribute} field must be at least %{min} image",
+    "maxImageCount": "%{attribute} field must be less %{max} image",
+    "valid": "must be valid",
+    "number": " must be numbers",
+    "set_as_default_address": "Set as default Address",
+    "add_address": "Add New address",
+    "logout": "Logout Out",
+    "password_min": "must be 6 numbers",
+    "numeric": "must be numbers",
+    "email": "%{attribute} field is not valid Email Address",
+    "validPhoneNumber": "The phone number not valid",
+    "maxWords": "This field must be less than %{maxWords} ",
+    "validPhoneOrEmail": "Invalid Phone Or Email"
+  },
+  "buttons": {
+    "more": "More",
+    "send": "Send",
+    "try_free": "Start your free trial now!",
+    "login": "Sign in",
+    "register": "Sign up",
+    "intro_brief": "Brief Introduction",
+    "join_us": "Join Us",
+    "free_trial": "Start your free trial now",
+    "help": "Help"
+  },
+  "routes": {
+    "about_us": "About Otas",
+    "terms_conditions": "Terms and Conditions",
+    "privacy_policy": "Privacy Policy",
+    "home": "Home",
+    "pricing": "Pricing",
+    "signin": "Go to your website"
+  },
+
+  "fields": {
+    "name": "Name",
+    "phone": "Phone",
+    "email": " Email",
+    "subject": "Subject",
+    "message": "Message"
+  },
+  "enter_first_name": "Enter First Name",
+  "enter_last_name": "Enter Last Name",
+  "button": {},
+  "table": {},
+
+  "heading": {
+    "sharing": "Sharing"
+  },
+  "icon": {
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "twitter": "twitter",
+    "linkedin": "linkedin",
+    "snapchat": "snapchat"
+  },
+
+  "labels": {},
+  "about_otas": "About OTAS",
+  "prepare_site": "Prepare your website",
+  "why_otas": "Why Choose OTAS",
+  "all_about_us": "All You Need To Know About OTAS",
+  "try_now": "Try now without any expenses",
+  "try_desc1": "Start your free trial for ",
+  "try_desc2": " All day services",
+  "terms_conditions": "Terms and Conditions",
+  "usage_policy": "Usage Policy",
+  "all_terms_conditions": "All you need to know about the terms and conditions",
+  "privacy": " Privacy Policy",
+  "all_privacy": "All you need to know about privacy policy",
+  "contact_us": "Contact us",
+  "contact_content": "Be in touch with us by filling out the form and data and stating the reason for communication or through the attached communication data below the communication request form",
+  "contact_data": "Contact information",
+  "contact_data_content": "Contact us and you will find a service that will answer you with the largest team Tawasul",
+  "website": "Website",
+  "contact_directly": "Contact Directly",
+  "contact_via": "Contact us Via",
+  "right_reserved": "All Right Reserved",
+  "to_otas": "To OTAS Company",
+  "tax_number": "Tax Number",
+  "commercial_register": "Commercial Register",
+  "or": "OR",
+  "via_whatsapp": "Via WhatsApp",
+  "about_otas_footer": "text",
+  "otas_packages": "OTAs Pricing",
+
+  "home": {
+    "hero_title": "The first commercial tourism project in Saudi Arabia",
+    "hero_content": "According to Google, more than 65% of leisure travelers start searching online before they decide where or how they want to travel, so designing a tourism website for your company has become essential if you want a larger number of consumers, and this is what makes a great investment in a website Tourism makes sense.",
+    "services_title": "We offer you high-end services",
+    "services_content": "Various solutions serving the world of tourism, for modern electronic transformation and increasing opportunities for tourism growth and sales",
+    "free_trial_title": "Prepare your website",
+    "free_trial_content_1": "Start your free trial for  ",
+    "free_trial_content_2": " All day services",
+    "mission_title": "Mission",
+    "mission_content": "There is a message for our site that helps you grow your business",
+    "vision_title": "Vision",
+    "vision_content": "There is a vision for our site that helps you grow your business",
+    "subscribe_title": "Subscribe Now",
+    "subscribe_content": "Choose the package that suits you with the plan that suits you",
+    "partners_title": "Success partners",
+    "partners_content": "We have success partners and clients from international tourism experts",
+    "testimonials_title": "Customer opinions",
+    "testimonials_content": "Our customers' experience and opinion is a testimony we cherish"
+  }
+}

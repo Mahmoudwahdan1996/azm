@@ -1,0 +1,46 @@
+{
+  "name": "azmNuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@bachdgvn/vue-otp-input": "^1.0.8",
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.13.6",
+    "browserslist": "^4.21.4",
+    "core-js": "^3.6.5",
+    "date-fns": "^2.28.0",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-vue": "^7.9.0",
+    "js-cookie": "^3.0.1",
+    "nuxt": "^2.14.6",
+    "nuxt-gmaps": "^1.2.10",
+    "nuxt-i18n": "^6.15.3",
+    "nuxt-sweetalert2": "^1.0.0",
+    "vue": "^2.7.10",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10",
+    "vuetify": "^2.6.10",
+    "vue-toasted": "^1.1.28",
+    "vue2-google-maps": "^0.10.7",
+    "vuelidate": "^0.7.6",
+    "vuelidate-error-extractor": "^2.4.1"
+  },
+  "devDependencies": {
+    "@nuxt/image": "^0.6.1",
+    "@nuxtjs/eslint-config": "^6.0.0",
+    "@nuxtjs/eslint-module": "^3.0.2",
+    "@nuxtjs/moment": "^1.6.1",
+    "@nuxtjs/vuetify": "^1.12.3",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.24.0",
+    "eslint-plugin-nuxt": "^2.0.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^10.1.1"
+  }
+}
